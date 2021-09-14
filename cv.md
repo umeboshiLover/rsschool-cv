@@ -41,3 +41,13 @@ console.log(taskResult);
 * FreeCodeCamp, 2021  https://www.freecodecamp.org/learn/responsive-web-design/
 * Web-programming, 2020  https://openedu.ru/course/ITMOUniversity/WEBDEV/
 * Bachelor of Nursing 2010-2014 
+
+### **Languages:**
+-----------------------------------------------------------------------------------------------
+#### English CLB results:
+* Listening Benchmark: 6
+* Speaking Benchmark: 6
+* Reading Benchmark: 7
+* Writing Benchmark: 7
+
+It covers INTERMEDIATE language ability
